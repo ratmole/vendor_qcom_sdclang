@@ -13,6 +13,13 @@
         "SDCLANG_FLAGS": "-Wno-vectorizer-no-neon",
         "SDCLANG_FLAGS_2": "-Wno-vectorizer-no-neon"
     },
+    "msm8974": {
+        "SDCLANG": true,
+        "SDCLANG_PATH": "vendor/qcom/sdclang/llvm-arm-toolchain-ship/4.0/bin",
+        "SDCLANG_PATH_2": "vendor/qcom/sdclang/llvm-arm-toolchain-ship/4.0.2/prebuilt/linux-x86_64/bin",
+        "SDCLANG_FLAGS": "-Wno-vectorizer-no-neon",
+        "SDCLANG_FLAGS_2": "-Wno-vectorizer-no-neon"
+    },
     "msm8998": {
         "SDCLANG": true,
         "SDCLANG_PATH": "vendor/qcom/sdclang/llvm-arm-toolchain-ship/4.0/bin",
